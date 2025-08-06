@@ -65,8 +65,4 @@ Plataforma institucional desarrollada para el control de estadías y estancias d
 ## 📫 Contacto
 
 📧 albertocastrejon377@gmail.com  
-🔗 [LinkedIn](https://mx.linkedin.com/in/alberto-castrejon-1b061a291)
-
----
-
-¡Gracias por visitar mi perfil! 💻✨
+🔗 [LinkedIn](https://mx.linkedin.com/in/alberto-castrejon-
