@@ -3,11 +3,13 @@
 🎓 Estudiante de Ingeniería en Software  
 📍 Cancún, México  
 
-Soy una persona apasionada por la tecnología y el desarrollo. Me gusta aprender constantemente, salir de mi zona de confort y pulir mis conocimientos. Durante mi formación universitaria he sido líder de equipo y de proyecto, lo que me ha ayudado a ser alguien responsable y comprometido. Me encanta trabajar en la arquitectura cliente-servidor, y aunque domino el backend y las bases de datos, también tengo experiencia en el frontend con enfoque en diseño UX.
+Apasionado por la tecnología y el desarrollo de software. Me gusta aprender constantemente, asumir nuevos retos y perfeccionar mis conocimientos. Durante mi formación universitaria he trabajado en proyectos donde he sido líder de equipo y colaborador, lo que me ha permitido desarrollar responsabilidad, compromiso y capacidad de trabajo en conjunto.  
+
+Me interesa especialmente la **arquitectura cliente-servidor** y el desarrollo de aplicaciones web. Tengo experiencia práctica en backend, bases de datos y también en frontend con enfoque en diseño UX.  
 
 ---
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
 
 ### 🎓 Plataforma de Estadías y Estancias UPQROO  
 🔗 [Visítala aquí](http://gestionvinculacion.upqroo.edu.mx)  
@@ -24,11 +26,23 @@ Plataforma institucional desarrollada para el control de estadías y estancias d
 
 ---
 
+### 🖥️ Red de Talento UPQROO  
+🔗 [Ver publicación](http://redtalento.upqroo.edu.mx/autores)  
+
+Colaboración en el despliegue y configuración del sistema en un servidor Linux utilizando Apache2.  
+- Configuración y ajuste de **Apache2** en **Ubuntu Server**.  
+- Manejo de **VirtualHost** y configuración de puertos.  
+- Soporte en pruebas de acceso y visibilidad del sistema.  
+
+🛠 Tecnologías: Linux · Ubuntu Server · Apache2 · Despliegue de aplicaciones  
+
+---
+
 ## 🧠 Actualmente aprendiendo
 
-- Fundamentos avanzados de **JavaScript**
-- Despliegue de servidores en **Ubuntu**
-- Buenas prácticas de seguridad (JWT, autenticación, etc.)
+- Fundamentos avanzados de **JavaScript**  
+- Despliegue y administración de servidores en **Ubuntu**  
+- Buenas prácticas de seguridad (JWT, autenticación, etc.)  
 
 ---
 
@@ -65,4 +79,4 @@ Plataforma institucional desarrollada para el control de estadías y estancias d
 ## 📫 Contacto
 
 📧 albertocastrejon377@gmail.com  
-🔗 [LinkedIn](https://mx.linkedin.com/in/alberto-castrejon-
+🔗 [LinkedIn](https://mx.linkedin.com/in/alberto-castrejon-)  
